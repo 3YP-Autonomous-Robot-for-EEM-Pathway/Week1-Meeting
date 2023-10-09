@@ -1,10 +1,11 @@
 # Week1-Meeting
 Meeting Catch Up
 
-Gardening： Seeding  
+Gardening：Seeding  
 Ketching: Bin Cleaning, Washing Dishes and   
 Folding Clothes
 
 
 Gaurav    
 Luke
+Jimbo: Hardware
