@@ -11,5 +11,3 @@ Home Security Robot(Self Defence(?))
 Gaurav    
 Luke  
 Jimbo(Brasenose College): Hardware
-
-test
