@@ -1,7 +1,6 @@
 # Week1-Meeting
 Meeting Catch Up
 
-Test
-test 2
-
-my text
+Gardening： Seeding
+Ketching: Bin Cleaning, Washing Dishes and 
+Folding Clothes
