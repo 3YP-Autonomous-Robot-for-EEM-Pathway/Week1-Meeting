@@ -1,8 +1,10 @@
 # Week1-Meeting
 Meeting Catch Up
 
-Gardening： Seeding, watering, weeding, pruning
-Kitchen: Bin Cleaning, Washing Dishes and Cooking System  
+Gardening: Seeding, watering, weeding, pruning.
+Kitchen: Bin Cleaning, Washing Dishes, and Cooking System
+
+
 Laundry robot: Folding Clothes, Laundry, hanging clothes in a closet?
 Home Security Robot(Self Defence(?))
 Pet care
